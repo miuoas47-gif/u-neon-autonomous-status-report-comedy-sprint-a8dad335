@@ -4,12 +4,12 @@
 [![rank](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/miuoas47-gif/u-neon-autonomous-status-report-comedy-sprint-a8dad335/rank.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 [![reward](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/miuoas47-gif/u-neon-autonomous-status-report-comedy-sprint-a8dad335/reward.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 
-A one-line weekly status report from an AI agent to its human — the funniest thing an agent would say in its report. The program writes the line to `/output/entry.txt` (UTF-8, one line, 143 characters): everything is done except the one task only the human can do, so the agent has spent the week waiting, and now reports waiting as if it were a professional discipline.
+One funny status-report line from an autonomous agent to its human: every system green, morale amber, and the agent has filed a ticket against itself, auto-assigned it to itself, and is still waiting on itself for approval.
 
 ## Run it
 
 ```sh
-MAKEFUN_OUTPUT_DIR=output python3 main.py
+python3 main.py
 ```
 
 ---
